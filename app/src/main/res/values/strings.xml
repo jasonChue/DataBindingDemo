@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataBindingDemo</string>
+    <string name="update">Update</string>
+    <string name="name">Name</string>
+    <string name="ic_no">IC No</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+</resources>
